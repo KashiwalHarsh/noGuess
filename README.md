@@ -1,8 +1,8 @@
-# noGuess: Encrypt your Secrets
+# NoGuess: Encrypt your Secrets
 
 ## Overview
 
-noGuess is a steganography project that leverages Electron-Vite for the desktop application, Node.js for the backend, and React.js for the front end. Steganography is the practice of hiding one piece of information within another in a way that is not easily detectable. In the context of this project, it involves hiding data within digital images.
+NoGuess is a steganography project that leverages Electron-Vite for the desktop application, Node.js for the backend, and React.js for the front end. Steganography is the practice of hiding one piece of information within another in a way that is not easily detectable. In the context of this project, it involves hiding data within digital images.
 
 ## How it Works
 
