@@ -92,3 +92,4 @@ Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUT
 
 - Special thanks to [Author Name] for their [Library/Tool] which inspired and helped in certain parts of this project.
 - The steganography techniques employed in this project are based on the works of [Researcher Name] in the field of steganography.
+- This project is a part of final year research paper for my Bachelor's 
