@@ -13,7 +13,7 @@ The project allows users to embed secret messages or files within image files wi
 - **Image Steganography:** Embed secret messages or files within image files.
 - **Secure Encryption:** Implement robust encryption algorithms to protect the hidden information.
 - **User-Friendly Interface:** Provide an intuitive and easy-to-use interface for users to interact with the application.
-- **Cross-Platform Compatibility:** Build a desktop application using Electron to ensure compatibility with Windows, macOS, and Linux.
+- **Cross-Platform Compatibility:** Build a desktop application using Electron to ensure compatibility with Windows, macOS, and Linux
 
 ## Use Cases
 
